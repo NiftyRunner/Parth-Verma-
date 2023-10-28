@@ -1,0 +1,4 @@
+C:\Users\Nifty\source\repos\Ques6\Ques6\obj\Debug\net6.0\Ques6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nifty\source\repos\Ques6\Ques6\obj\Debug\net6.0\Ques6.AssemblyInfoInputs.cache
+C:\Users\Nifty\source\repos\Ques6\Ques6\obj\Debug\net6.0\Ques6.AssemblyInfo.cs
+C:\Users\Nifty\source\repos\Ques6\Ques6\obj\Debug\net6.0\Ques6.csproj.CoreCompileInputs.cache

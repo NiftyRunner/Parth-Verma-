@@ -1,0 +1,14 @@
+C:\Users\Nifty\source\repos\Ques7\Ques7\bin\Debug\net6.0\Ques7.exe
+C:\Users\Nifty\source\repos\Ques7\Ques7\bin\Debug\net6.0\Ques7.deps.json
+C:\Users\Nifty\source\repos\Ques7\Ques7\bin\Debug\net6.0\Ques7.runtimeconfig.json
+C:\Users\Nifty\source\repos\Ques7\Ques7\bin\Debug\net6.0\Ques7.dll
+C:\Users\Nifty\source\repos\Ques7\Ques7\bin\Debug\net6.0\Ques7.pdb
+C:\Users\Nifty\source\repos\Ques7\Ques7\obj\Debug\net6.0\Ques7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nifty\source\repos\Ques7\Ques7\obj\Debug\net6.0\Ques7.AssemblyInfoInputs.cache
+C:\Users\Nifty\source\repos\Ques7\Ques7\obj\Debug\net6.0\Ques7.AssemblyInfo.cs
+C:\Users\Nifty\source\repos\Ques7\Ques7\obj\Debug\net6.0\Ques7.csproj.CoreCompileInputs.cache
+C:\Users\Nifty\source\repos\Ques7\Ques7\obj\Debug\net6.0\Ques7.dll
+C:\Users\Nifty\source\repos\Ques7\Ques7\obj\Debug\net6.0\refint\Ques7.dll
+C:\Users\Nifty\source\repos\Ques7\Ques7\obj\Debug\net6.0\Ques7.pdb
+C:\Users\Nifty\source\repos\Ques7\Ques7\obj\Debug\net6.0\Ques7.genruntimeconfig.cache
+C:\Users\Nifty\source\repos\Ques7\Ques7\obj\Debug\net6.0\ref\Ques7.dll
